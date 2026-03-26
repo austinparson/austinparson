@@ -1,6 +1,6 @@
 # Hello, I'm Austin Parson. 👋
 
-**Mathematician/Coder** | **Recent Fort Collins, CO transplant from Missoula, MT** | **Love me some science**
+**Mathematician/Coder** | **Fort Collins, CO transplant from Missoula, MT** | **Love me some science**
 
 Welcome to my GitHub! I'm passionate about emergent technologies and pushing the boundaries of human achievement as we advance ever-onward into a new dawn of prosperity for all humankind. I'm also looking for work.
 
