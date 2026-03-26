@@ -1,4 +1,4 @@
-# Hello, I'm Austin Parson. 👋
+# Hello, I'm Austin Parson.
 
 **Mathematician/Coder** | **Fort Collins, CO transplant from Missoula, MT** | **Love me some science**
 
