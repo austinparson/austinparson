@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about emergent technologies and pushing the boundaries of human achievement as we advance ever-onward into a new dawn of prosperity for all humankind. I'm also looking for work.
 
-## Software and Languages
+## **Software and Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CircuitPython](https://img.shields.io/badge/CircuitPython-000000?style=for-the-badge&logo=python&logoColor=white)
